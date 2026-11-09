@@ -71,6 +71,6 @@ Key data cleaning and integration steps executed prior to warehousing:
 ---
 
 ## Team Members
-- **Fay Salman Alzahrany** (ID: 44510217)
-- **Retaj Khaled Alashqar** (ID: 446008786)
-- **Bayan Bandar Almatrafi** (ID: 445009448)
+- **Fay Salman Alzahrany**
+- **Retaj Khaled Alashqar**
+- **Bayan Bandar Almatraf**
