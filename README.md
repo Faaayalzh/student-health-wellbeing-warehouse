@@ -22,6 +22,13 @@ Integrating students' sleep, lifestyle, academic, and mental-health data from se
 | Data warehouse and ETL | Star schema in MySQL: one fact table (`FACT_STUDENT_HEALTH`) and three dimensions (Student, Academic, Lifestyle), integrated from three sources |
 | OLAP analysis | Four strategic questions answered with analytical queries and a dashboard |
 
+## Star Schema
+![Star Schema](star-schema.png)
+
+## Dashboard
+![Dashboard of the four analytical queries](dashboard.png)
+
+
 ## Findings (in the small loaded sample)
 The warehouse was loaded with a small sample (10 rows per dimension, 15 fact rows), so these are illustrative and should not be generalized.
 - Health-related tracks (Medicine, Nursing, Psychology) showed the highest depression rates in the sample.
